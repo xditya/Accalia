@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "9.5"
+            "version": "12"
          },
          "plan": "heroku-postgresql"
       }
@@ -20,12 +20,7 @@
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
-         "value": "True"
-      },
-      "DONATION_LINK": {
-         "description": "Optional: link where you would like to receive donations.",
-         "required": false,
-         "value": "https://t.me/AnonymousD3061"
+         "value": "True" 
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables.",
@@ -38,16 +33,16 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "x_y_x"
+         "value": "123"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "x_y_z"
+         "value": "username"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "988452336"
+         "value": "123"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -81,17 +76,17 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "988452336"
+         "value": "123"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "988452336"
+         "value": "123"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "988452336"
+         "value": "123"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -111,7 +106,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "988452336"
+         "value": "123"
       }
    },
    "keywords": [
