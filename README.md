@@ -1,6 +1,8 @@
 # Accalia
 Be like a lion and a wolf, then you have a big heart and the power of leadership
 
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/ApolloOfficial)
+
 GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
